@@ -1,4 +1,4 @@
 # DevOps
-AULA DevOps
-Alexandre Teixeira
-RA 1901295
+AULA DevOps<br/>
+Alexandre Teixeira<br/>
+RA 1901295<br/>
